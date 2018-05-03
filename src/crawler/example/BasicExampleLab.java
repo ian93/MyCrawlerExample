@@ -23,6 +23,7 @@ public class BasicExampleLab {
 		String uri = "https://tw.yahoo.com";
 
 		System.out.println(
+
 				CrawlerPack.start()
 				
 				// 參數設定
